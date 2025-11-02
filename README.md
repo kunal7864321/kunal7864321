@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I love exploring the world of technology, building
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,html,css,js,git,vscode,azure,github" />
+<img src="https://skillicons.dev/icons?i=python,bash,html,css,git,vscode,github" />
 
 ---
 
@@ -72,3 +72,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
